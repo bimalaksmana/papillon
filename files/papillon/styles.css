@@ -119,7 +119,7 @@
   top:0px;
   width:3000px;
   height:70px;
-  opacity:0.5;
+  opacity:0.699999988079071;
 }
 #u6_img {
   position:absolute;
@@ -314,7 +314,7 @@
   top:0px;
   width:3000px;
   height:70px;
-  opacity:0.5;
+  opacity:0.699999988079071;
 }
 #u20_img {
   position:absolute;
@@ -508,7 +508,7 @@
   top:0px;
   width:3000px;
   height:70px;
-  opacity:0.5;
+  opacity:0.699999988079071;
 }
 #u34_img {
   position:absolute;
@@ -703,7 +703,7 @@
   top:0px;
   width:3000px;
   height:70px;
-  opacity:0.5;
+  opacity:0.699999988079071;
 }
 #u48_img {
   position:absolute;
@@ -890,7 +890,7 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
-  background-color:rgba(246, 249, 249, 1);
+  background-color:rgba(243, 244, 246, 1);
   background-image:none;
 }
 #u62_state0_content {
@@ -1232,7 +1232,7 @@
   left:0px;
   top:2304px;
   width:1280px;
-  height:300px;
+  height:396px;
   overflow:hidden;
 }
 #u83_state0 {
@@ -1240,7 +1240,7 @@
   left:0px;
   top:0px;
   width:1280px;
-  height:300px;
+  height:396px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -1279,8 +1279,8 @@
 }
 #u86 {
   position:absolute;
-  left:401px;
-  top:2370px;
+  left:402px;
+  top:2420px;
 }
 #u86_state0 {
   position:relative;
@@ -1483,9 +1483,9 @@
 #u100 {
   position:absolute;
   left:0px;
-  top:2603px;
+  top:2700px;
   width:1280px;
-  height:76px;
+  height:56px;
   overflow:hidden;
 }
 #u100_state0 {
@@ -1493,7 +1493,7 @@
   left:0px;
   top:0px;
   width:1280px;
-  height:76px;
+  height:56px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -1533,10 +1533,13 @@
 #u103 {
   position:absolute;
   left:540px;
-  top:2634px;
+  top:2720px;
   width:200px;
-  height:16px;
-  font-size:14px;
+  height:21px;
+  font-family:'Nirmala UI Regular', 'Nirmala UI';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
   color:#FFFFFF;
   text-align:center;
 }
@@ -1545,7 +1548,7 @@
   left:0px;
   top:0px;
   width:200px;
-  height:16px;
+  height:21px;
 }
 #u104 {
   position:absolute;
@@ -1572,7 +1575,7 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
-  background-color:rgba(244, 247, 247, 1);
+  background-color:rgba(243, 244, 246, 1);
   background-image:none;
 }
 #u105_state0_content {
