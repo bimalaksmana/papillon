@@ -683,9 +683,9 @@
 #u40 {
   position:absolute;
   left:467px;
-  top:1477px;
+  top:1361px;
   width:147px;
-  height:23px;
+  height:19px;
   overflow:hidden;
 }
 #u40_state0 {
@@ -693,7 +693,7 @@
   left:0px;
   top:0px;
   width:147px;
-  height:23px;
+  height:19px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -844,7 +844,7 @@
   left:0px;
   top:0px;
   width:147px;
-  height:23px;
+  height:19px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -996,7 +996,7 @@
   left:0px;
   top:0px;
   width:147px;
-  height:23px;
+  height:19px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -1148,7 +1148,7 @@
   left:0px;
   top:0px;
   width:147px;
-  height:23px;
+  height:19px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -1300,7 +1300,7 @@
   left:0px;
   top:0px;
   width:147px;
-  height:23px;
+  height:19px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -1452,7 +1452,7 @@
   left:0px;
   top:0px;
   width:147px;
-  height:23px;
+  height:19px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -1604,7 +1604,7 @@
   left:100px;
   top:768px;
   width:880px;
-  height:700px;
+  height:585px;
   overflow:hidden;
 }
 #u113_state0 {
@@ -1612,7 +1612,7 @@
   left:0px;
   top:0px;
   width:880px;
-  height:700px;
+  height:585px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -1654,7 +1654,7 @@
   position:absolute;
   left:45px;
   top:320px;
-  width:440px;
+  width:485px;
   height:180px;
   font-family:'Nirmala UI Regular', 'Nirmala UI';
   font-style:normal;
@@ -1665,14 +1665,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:440px;
+  width:485px;
   height:180px;
 }
 #u117 {
   position:absolute;
   left:0px;
   top:0px;
-  width:440px;
+  width:485px;
   word-wrap:break-word;
 }
 #u118 {
@@ -1784,7 +1784,7 @@
   left:0px;
   top:0px;
   width:880px;
-  height:700px;
+  height:585px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -1973,7 +1973,7 @@
   left:0px;
   top:0px;
   width:880px;
-  height:700px;
+  height:585px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -2164,7 +2164,7 @@
   left:0px;
   top:0px;
   width:880px;
-  height:700px;
+  height:585px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -2359,7 +2359,7 @@
   left:0px;
   top:0px;
   width:880px;
-  height:700px;
+  height:585px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -2580,7 +2580,7 @@
   left:0px;
   top:0px;
   width:880px;
-  height:700px;
+  height:585px;
   visibility:hidden;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -2769,21 +2769,21 @@
 #u198 {
   position:absolute;
   left:988px;
-  top:1145px;
+  top:1083px;
   width:27px;
-  height:44px;
+  height:37px;
 }
 #u198_img {
   position:absolute;
   left:0px;
   top:0px;
   width:27px;
-  height:44px;
+  height:37px;
 }
 #u199 {
   position:absolute;
   left:2px;
-  top:14px;
+  top:10px;
   width:23px;
   visibility:hidden;
   word-wrap:break-word;
@@ -2791,9 +2791,9 @@
 #u200 {
   position:absolute;
   left:65px;
-  top:1145px;
+  top:1083px;
   width:27px;
-  height:44px;
+  height:37px;
   -webkit-transform:rotate(180deg);
   -moz-transform:rotate(180deg);
   -ms-transform:rotate(180deg);
@@ -2804,12 +2804,12 @@
   left:0px;
   top:0px;
   width:27px;
-  height:44px;
+  height:37px;
 }
 #u201 {
   position:absolute;
   left:2px;
-  top:14px;
+  top:10px;
   width:23px;
   visibility:hidden;
   word-wrap:break-word;
