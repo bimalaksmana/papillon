@@ -245,8 +245,17 @@
   text-align:center;
   line-height:normal;
 }
+.fontawesome {
+}
 .materialicons {
   font-family:'Material Icons Regular', 'Material Icons';
   font-size:48px;
   color:#000000;
+}
+.axuretraining {
+  font-family:'Arial Regular', 'Arial';
+  font-size:14px;
+  color:#666666;
+  text-align:left;
+  line-height:24px;
 }
